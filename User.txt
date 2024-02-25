@@ -1,4 +1,0 @@
-This is User.txt
-
-
-It contains details about every individual user.
